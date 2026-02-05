@@ -1,1 +1,5 @@
-# dsn1712-w26-assignment-1
+# Assignment #1
+
+## Assignment details
+
+Refer to assignment on Brightspace for full instructions, marking scheme and how to submit.
